@@ -14,6 +14,7 @@ The product is in essence a form that allows a user to upload a .csv file contai
 -------------------------------------------------------------------------------------
 A production version of the app is deployed to Vercel for users to demo.
 ### [Product Demo](https://processor-interview-w5vn.vercel.app/)
+* Users can utilize the test.csv and data.csv files in the repo as their transactions file
 -------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------
